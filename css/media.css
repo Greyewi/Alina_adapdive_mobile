@@ -1,0 +1,74 @@
+@media screen and (max-width: 1920px) {  /* for 1024px */
+
+  .header__nav {
+    display: none;
+  }
+
+  .burger {
+    display: block;
+    cursor: pointer;
+  }
+
+  .header__right {
+    width: auto;
+  }
+
+  .header__logo {
+    max-height: 48px;
+    max-width: 150px;
+  }
+
+  .container {
+    padding: 0 50px 0 50px;
+  }
+
+  .content__title {
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 73px;
+    margin-bottom: 16px;
+  }
+
+  .content__text {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 60px;
+  }
+
+  .content__button {
+
+  }
+
+
+  .howwedo__block2__wrap {
+    max-width: 60%;
+  }
+
+  .howwedo__block2__text {
+    margin-right: 50px;
+  }
+
+
+  .howwedo__block2Img{
+    background: url("../img/how_we_do_2.jpg");
+    background-position: right 10px;
+    background-repeat: no-repeat;
+    width: 40%;
+  }
+
+}
+
+
+@media screen and (max-width: 1024px) { /*for 768px*/
+
+
+
+}
+
+
+@media screen and (max-width: 768px) { /*for 320px*/
+
+
+
+}
